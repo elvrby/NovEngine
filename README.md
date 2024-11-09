@@ -29,3 +29,12 @@ Here are the steps to run the project
 
 **Noted:**
 please use this program carefully and be responsible
+
+**Preview:**
+NovEngine Version 0.1
+![NovEngine-Preview1](https://github.com/user-attachments/assets/27d4a258-cbad-471d-98b9-7a0acffb97c9)
+
+**NovEngine Editor**
+![NovEngine-Preview2](https://github.com/user-attachments/assets/1b58ff63-5bb3-43e7-a512-f91c27fd86c6)
+
+
